@@ -1,5 +1,5 @@
-# my-first-website# {Mary Atieno}
-#### By **{Mary Atieno}**
+# my-first-website# {Mary-Atieno}
+#### By **{Mary-Atieno}**
 ## Description
 {This is a discription of a project that is My first portfolio.It contains a number of files in it that inclubde webpages that have been created by me. }
 ## Setup/Installation Requirements
