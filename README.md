@@ -1,18 +1,30 @@
-# my-first-website# {Mary-Atieno}
-#### By **{Mary-Atieno}**
+# portfolio
+
+By **{Mary-Atieno}**
+
+## sample portfolio.
+
+## Table of content.
+   description
+   technology used
+   license
+   instalation requirements
+
 ## Description
-{This is a discription of a project that is My first portfolio.It contains a number of files in it that inclubde webpages that have been created by me. }
+{This is a project website to create a portfolio.}
+
 ## Setup/Installation Requirements
-* you need to have atom app.
-* you need to have a github account.
-* live links to webpages.
-## Known Bugs
-{ getting images in the project. }
-## Technologies Used
-{The languages and tools used iclude HTML and CSS.}
+-Access to the internet.
+-you need to get a phone,tablet or laptop
+
 ## Support and contact details
 {If you run into any issues or have questions, ideas or concerns please you are free to contact me or make a contribution to the code.}
-### License
+@mary.atieno@student.moringaschool.com.
+
+## live link
+
+
+.my-first-website
 **{List of contributors or company name}**MIT License
 
 Copyright (c) [2022] [ Mary Atieno.]
