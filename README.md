@@ -2,29 +2,34 @@
 
 By **{Mary-Atieno}**
 
-## sample portfolio.
+## sample portfolio
 
-## Table of content.
+## Table of content
+
    description
    technology used
    license
    instalation requirements
 
 ## Description
+
 {This is a project website to create a portfolio.}
 
 ## Setup/Installation Requirements
--Access to the internet.
--you need to get a phone,tablet or laptop
+
+get access to the internet
+install vscode and sign up to it
+get github account and sign up
 
 ## Support and contact details
+
 {If you run into any issues or have questions, ideas or concerns please you are free to contact me or make a contribution to the code.}
 @mary.atieno@student.moringaschool.com.
 
 ## live link
 
+my-first-website
 
-.my-first-website
 **{List of contributors or company name}**MIT License
 
 Copyright (c) [2022] [ Mary Atieno.]
