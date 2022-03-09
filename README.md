@@ -1,4 +1,4 @@
-# portfolio
+# my first webpage
 
 By **{Mary-Atieno}**
 
@@ -28,7 +28,7 @@ get github account and sign up
 
 ## live link
 
-my-first-website
+#my-first-webpage
 
 **{List of contributors or company name}**MIT License
 
