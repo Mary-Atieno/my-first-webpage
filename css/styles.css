@@ -53,8 +53,6 @@ span{
   font-size: 15px;
   font-weight: bold;
 }
-
-
 .picture{
     height: 400px;
     width: 50%;
@@ -62,10 +60,7 @@ span{
     background-size: contain;
     border: 3px;
     border-radius: 20px;
-    
-    
 }
-
 .ella3{
   background-color: rgb(213, 216, 12);
   width: 100%;
