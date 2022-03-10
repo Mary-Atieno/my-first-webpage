@@ -26,9 +26,9 @@ get github account and sign up
 {If you run into any issues or have questions, ideas or concerns please you are free to contact me or make a contribution to the code.}
 @mary.atieno@student.moringaschool.com.
 
-## live link
+## live links
 
-my-first-website
+
 
 **{List of contributors or company name}**MIT License
 
